@@ -1,44 +1,44 @@
 var formatDistanceLocale = {
   lessThanXSeconds: {
-    one: 'minna en 1 sekúnda',
+    one: 'minna en 1 sek.',
     other: 'minna en {{count}} sekúndur'
   },
 
   xSeconds: {
-    one: '1 sekúnda',
-    other: '{{count}} sekúndur'
+    one: '1 sek.',
+    other: '{{count}} sek.'
   },
 
-  halfAMinute: 'hálf mínúta',
+  halfAMinute: 'hálfa mín.',
 
   lessThanXMinutes: {
-    one: 'minna en 1 mínúta',
-    other: 'minna en {{count}} mínútur'
+    one: 'minna en 1 mín.',
+    other: 'minna en {{count}} mín.'
   },
 
   xMinutes: {
-    one: '1 mínúta',
-    other: '{{count}} mínútur'
+    one: '1 mín.',
+    other: '{{count}} mín'
   },
 
   aboutXHours: {
-    one: 'u.þ.b. 1 klukkustund',
-    other: 'u.þ.b. {{count}} klukkustundir'
+    one: 'u.þ.b. 1 klst',
+    other: 'eftir u.þ.b. {{count}} klst'
   },
 
   xHours: {
-    one: '1 klukkustund',
-    other: '{{count}} klukkustundir'
+    one: '1 klst.',
+    other: '{{count}} klst.'
   },
 
   xDays: {
-    one: '1 dagur',
-    other: '{{count}} dagar'
+    one: '1 dag',
+    other: '{{count}} daga'
   },
 
   aboutXWeeks: {
     one: 'um viku',
-    other: 'um {{count}} vikur'
+    other: '{{count}} vikur'
   },
 
   xWeeks: {
@@ -47,13 +47,13 @@ var formatDistanceLocale = {
   },
 
   aboutXMonths: {
-    one: 'u.þ.b. 1 mánuður',
-    other: 'u.þ.b. {{count}} mánuðir'
+    one: 'u.þ.b. 1 mán.',
+    other: 'u.þ.b. {{count}} mán.'
   },
 
   xMonths: {
-    one: '1 mánuður',
-    other: '{{count}} mánuðir'
+    one: '1 mán.',
+    other: '{{count}} mán.'
   },
 
   aboutXYears: {
